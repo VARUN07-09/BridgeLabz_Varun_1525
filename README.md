@@ -12,4 +12,4 @@ completed the employee wage problem and pushed to git hub
 
 
 06/12/24
-completed the assignment provided by sir 
+completed the assignment provided by sir  and revised the topics that are in our plan
